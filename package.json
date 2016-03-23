@@ -1,0 +1,24 @@
+{
+  "name": "fish-post",
+  "version": "1.0.0",
+  "description": "create shipping labels and track their progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insanity54/fishPost.git"
+  },
+  "author": "Chris Grimmett <chris@grimtech.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insanity54/fishPost/issues"
+  },
+  "homepage": "https://github.com/insanity54/fishPost#readme",
+  "dependencies": {
+    "nedb": "^1.8.0",
+    "openbazaar-connector": "0.0.3",
+    "ws": "^1.0.1"
+  }
+}
