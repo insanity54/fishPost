@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/insanity54/fishPost#readme",
   "dependencies": {
-    "nedb": "^1.8.0",
-    "openbazaar-connector": "0.0.3",
-    "ws": "^1.0.1"
+    "nedb": "^1.8.0"
   }
 }
