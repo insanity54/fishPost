@@ -1,4 +1,7 @@
 # fishPost
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/insanity54/fishPost.svg)](https://greenkeeper.io/)
+
 create shipping labels
 
 
